@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Kyungjin Jung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is amazing grace!"
+  avatar           : "/Users/jeong-gyeongjin/Downloads/blackswan.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Just for fun."
   location         : "Seoul"
   email            :
   links:
